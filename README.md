@@ -228,31 +228,21 @@ Screenshots below were captured from the running application with the seeded Mon
 
 ### Dashboard
 
-![Department inventory dashboard](./docs/screenshots/dashboard.png)
+![Department inventory dashboard](./screenshots/Screenshot%202026-11-04%20131902.png)
 
 ### Equipment inventory
 
-![Equipment inventory with asset details and availability](./docs/screenshots/equipment.png)
+![Equipment inventory with asset details and availability](./screenshots/image.png)
 
-### Laboratories
-
-![Laboratory locations and equipment counts](./docs/screenshots/laboratories.png)
 
 ### Issue and return transactions
 
-![Equipment transaction history](./docs/screenshots/transactions.png)
+![Equipment transaction history](./screenshots/Screenshot%202026-11-04%20131852.png)
 
 ### Maintenance
 
-![Maintenance issue and repair records](./docs/screenshots/maintenance.png)
+![Maintenance issue and repair records](./screenshots/Screenshot%202026-11-04%20131925.png)
 
-### Reports
-
-![Inventory and maintenance reports](./docs/screenshots/reports.png)
-
-### Responsive mobile dashboard
-
-![Responsive mobile dashboard](./docs/screenshots/mobile-dashboard.png)
 
 ## Future improvements
 
